@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1548940463622.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3134123665",
+    "id" : "A74A8CCD",
+    "lastKnownWriteTime" : 1548940539,
+    "last_content_update" : 1548940539746,
+    "path" : "C:/Users/Jitendra/Desktop/Machine Learning/Part 1 - Data Preprocessing/Section 2 -------------------- Part 1 - Data Preprocessing --------------------/data_preprocessing_template.R",
+    "project_path" : "data_preprocessing_template.R",
+    "properties" : {
+        "cursorPosition" : "3,30",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
